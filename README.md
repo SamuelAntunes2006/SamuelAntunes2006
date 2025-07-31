@@ -4,7 +4,7 @@ Sou desenvolvedor com foco em , **Python** e **Java**, apaixonado por tecnologia
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** JavaScript, Python, Java, HTML, CSS
+- **Linguagens:** JavaScript, Python, Java, CSS
 - **Banco de Dados:** MySQL, SQLServer
 - **Ferramentas:** Git, GitHub, VS Code
 
@@ -15,11 +15,6 @@ Sou desenvolvedor com foco em , **Python** e **Java**, apaixonado por tecnologia
 - Aplicações Java
 - Bancos de dados relacionais
 - APIs e Integrações
-
-## Linguagens
-<i class="devicon-python-plain"></i>
-<i class="devicon-java-plain-wordmark"></i>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ## 📫 Contato
 
@@ -32,3 +27,8 @@ Sou desenvolvedor com foco em , **Python** e **Java**, apaixonado por tecnologia
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelAntunes2006&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<i class="devicon-java-plain-wordmark"></i>
+            <i class="devicon-sqldeveloper-plain colored"></i>
+            <i class="devicon-oracle-original colored"></i>
+          
+          
