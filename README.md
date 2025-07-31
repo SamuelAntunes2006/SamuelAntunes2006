@@ -27,8 +27,11 @@ Sou desenvolvedor com foco em , **Python** e **Java**, apaixonado por tecnologia
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelAntunes2006&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<div>
 <i class="devicon-java-plain-wordmark"></i>
-            <i class="devicon-sqldeveloper-plain colored"></i>
+<i class="devicon-sqldeveloper-plain colored"></i>
             <i class="devicon-oracle-original colored"></i>
+            
+</div>
           
           
