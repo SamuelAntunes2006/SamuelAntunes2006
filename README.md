@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Samuel Santos
 
-<!--
-**SamuelAntunes2006/SamuelAntunes2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor com foco em , **Python** e **Java**, apaixonado por tecnologia e por criar soluções eficientes para problemas reais, automação de processos e estou sempre em busca de aprendizado contínuo.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** JavaScript, Python, Java, HTML, CSS
+- **Banco de Dados:** MySQL, SQLServer
+- **Ferramentas:** Git, GitHub, VS Code
+
+## 📌 Áreas de Interesse
+
+- Desenvolvimento Web (Front-end & Back-end)
+- Automação com Python
+- Aplicações Java
+- Bancos de dados relacionais
+- APIs e Integrações
+
+## 📫 Contato
+
+- Email: samuel.asantos2006@gmail.com 
+- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
+---
