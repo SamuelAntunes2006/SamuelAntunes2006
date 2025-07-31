@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Samuel Santos
+# 👋 Olá, eu sou o Samuel Antunes
 
 Sou desenvolvedor com foco em , **Python** e **Java**, apaixonado por tecnologia e por criar soluções eficientes para problemas reais, automação de processos e estou sempre em busca de aprendizado contínuo.
 
