@@ -16,6 +16,11 @@ Sou desenvolvedor com foco em , **Python** e **Java**, apaixonado por tecnologia
 - Bancos de dados relacionais
 - APIs e Integrações
 
+## Linguagens
+<i class="devicon-python-plain"></i>
+<i class="devicon-java-plain-wordmark"></i>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 ## 📫 Contato
 
 - Email: samuel.asantos2006@gmail.com 
