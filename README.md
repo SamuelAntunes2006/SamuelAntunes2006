@@ -19,5 +19,5 @@ Sou desenvolvedor com foco em , **Python** e **Java**, apaixonado por tecnologia
 ## 📫 Contato
 
 - Email: samuel.asantos2006@gmail.com 
-- LinkedIn: [linkedin.com/in/seuperfil](www.linkedin.com/in/samuel-antunes-98a60b269)  
----
+- LinkedIn: (www.linkedin.com/in/samuel-antunes-98a60b269)  
+
